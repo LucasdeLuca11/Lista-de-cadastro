@@ -1,0 +1,19 @@
+CRITICAL - 2022-08-17 05:45:31 --> Too few arguments to function App\Controllers\Main::index(), 0 passed in C:\xampp\htdocs\codeigniter4\app\Controllers\Main.php on line 12 and exactly 1 expected
+in APPPATH\Controllers\Main.php on line 16.
+ 1 APPPATH\Controllers\Main.php(12): App\Controllers\Main->index()
+ 2 SYSTEMPATH\CodeIgniter.php(895): App\Controllers\Main->_remap('index')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 05:53:47 --> Call to undefined method App\Controllers\Main::default_method()
+in APPPATH\Controllers\Main.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(895): App\Controllers\Main->_remap('apre')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 06:01:49 --> Too few arguments to function App\Controllers\Loja\Vendas::Venda(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\Loja\Vendas.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Loja\Vendas->Venda()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loja\Vendas))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

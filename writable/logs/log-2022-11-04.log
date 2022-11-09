@@ -1,0 +1,419 @@
+CRITICAL - 2022-11-04 07:33:37 --> Undefined property: stdClass::$Telefone
+in APPPATH\Views\categorias.php on line 34.
+ 1 APPPATH\Views\categorias.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$Telefone', 'APPPATH\\Views\\categorias.php', 34, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 5 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:34:16 --> Invalid file: categorias.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:34:51 --> Invalid file: categorias.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:34:52 --> Invalid file: categorias.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:34:52 --> Invalid file: categorias.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:34:52 --> Invalid file: categorias.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:34:52 --> Invalid file: categorias.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:34:52 --> Invalid file: categorias.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(14): view('categorias', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:35:38 --> Undefined property: stdClass::$Telefone
+in APPPATH\Views\categorias.php on line 34.
+ 1 APPPATH\Views\categorias.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$Telefone', 'APPPATH\\Views\\categorias.php', 34, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 5 APPPATH\Controllers\Categorias.php(14): view('categorias', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 07:36:50 --> unlink(C:\xampp\htdocs\cleiton\writable\debugbar/debugbar_1667502421.849123.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\cleiton\\writable\\debugbar/debugbar_1667502421.849123.json): No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 76, [...])
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('FCPATH\\writable\\debugbar/debugbar_1667502421.849123.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1667558210.486613', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(472): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(326): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 07:58:32 --> Duplicate entry '0' for key 'telefone_UNIQUE'
+CRITICAL - 2022-11-04 07:58:32 --> Duplicate entry '0' for key 'telefone_UNIQUE'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16)99999-9999\', \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16)99999-9999\', \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16)99999-9999\', \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 08:17:57 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 08:17:57 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 08:18:12 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 08:18:12 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 08:18:32 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 08:18:32 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 08:18:34 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 08:18:34 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 08:18:35 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 08:18:35 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 08:18:37 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 08:18:37 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16)99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 12:46:16 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 12:46:16 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16) 99316-1812\', \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16) 99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', \'(16) 99316-1812\', \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 12:47:56 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 12:47:56 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16) 99999-9999\', \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16) 99999-9999\', \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16) 99999-9999\', \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 12:52:25 --> Duplicate entry '0' for key 'telefone'
+CRITICAL - 2022-11-04 12:52:25 --> Duplicate entry '0' for key 'telefone'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16) 99999-9999\', \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16) 99999-9999\', \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', \'(16) 99999-9999\', \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 12:57:27 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 12:57:27 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 12:58:13 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 12:58:13 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-04 12:59:09 --> Invalid file: categorias_form.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias_form.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias_form', [], true)
+ 3 APPPATH\Controllers\Cadastros.php(63): view('categorias_form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->editar('22')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 12:59:26 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 12:59:26 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 12:59:46 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 12:59:46 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 13:00:04 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 13:00:04 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 13:01:17 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 13:01:17 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 13:02:00 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 13:02:00 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 13:07:13 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 13:07:13 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'mendonca@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 13:07:52 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 13:07:52 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 13:08:38 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 13:08:38 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'mendonça\', NULL, \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-04 13:11:11 --> Column 'telefone' cannot be null
+CRITICAL - 2022-11-04 13:11:11 --> Column 'telefone' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', NULL, \'lucasdeluca007@gmail.com\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', NULL, \'lucasdeluca007@gmail.com\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (\'Lucas de Luca Leocadio\', NULL, \'lucasdeluca007@gmail.com\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cadastro` (`nome`, `telefone`, `email`) VALUES (:nome:, :telefone:, :email:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Cadastros.php(30): CodeIgniter\Model->insert()
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Cadastros->inserir()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastros))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

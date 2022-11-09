@@ -1,0 +1,239 @@
+CRITICAL - 2022-10-17 08:05:09 --> Undefined variable: produto_id
+in APPPATH\Controllers\Produtos.php on line 14.
+ 1 APPPATH\Controllers\Produtos.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: produto_id', 'APPPATH\\Controllers\\Produtos.php', 14, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:05:24 --> Undefined variable: produto_id
+in APPPATH\Controllers\Produtos.php on line 14.
+ 1 APPPATH\Controllers\Produtos.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: produto_id', 'APPPATH\\Controllers\\Produtos.php', 14, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:41 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:43 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:44 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:44 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:44 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:45 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:45 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:45 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:45 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:45 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:46 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:46 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:46 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:46 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:47 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:47 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:53 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:06:56 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:07:25 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:07:26 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:07:27 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:07:27 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:07:27 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:07:27 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 08:07:27 --> Invalid file: produtos_detalhe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produtos_detalhe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('produtos_detalhe', [], true)
+ 3 APPPATH\Controllers\Produtos.php(16): view('produtos_detalhe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('2')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

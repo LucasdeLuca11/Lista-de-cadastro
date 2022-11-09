@@ -1,0 +1,13 @@
+CRITICAL - 2022-10-13 08:59:07 --> Too few arguments to function App\Controllers\Helloworld::hellopersonalizado(), 0 passed in C:\xampp\htdocs\projetinho\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\Helloworld.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Helloworld->hellopersonalizado()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Helloworld))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 13:10:54 --> Undefined variable: produto_id
+in APPPATH\Controllers\Produtos.php on line 13.
+ 1 APPPATH\Controllers\Produtos.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: produto_id', 'APPPATH\\Controllers\\Produtos.php', 13, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Produtos->detalhes('10')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,126 @@
+CRITICAL - 2022-11-03 14:15:02 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:16:08 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:29:33 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:33:55 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:57:54 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:58:19 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:58:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:58:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:58:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:58:21 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:19 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:19 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:19 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 14:59:20 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 15:00:36 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 15:00:37 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-03 15:00:54 --> Class 'App\Models\CadastroModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

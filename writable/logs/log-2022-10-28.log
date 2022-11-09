@@ -1,0 +1,222 @@
+ERROR - 2022-10-28 15:34:45 --> Table 'db_cadastro.categoria' doesn't exist
+CRITICAL - 2022-10-28 15:34:45 --> Table 'db_cadastro.categoria' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `categoria`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `categoria`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `categoria`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categoria`', [], false)
+ 5 SYSTEMPATH\Model.php(184): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(523): CodeIgniter\Model->doFind(false, null)
+ 7 APPPATH\Controllers\Categorias.php(11): CodeIgniter\BaseModel->find()
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:37:47 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:37:47 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:41:51 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:13 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:35 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:35 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:35 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:36 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:36 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:36 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:36 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:36 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:36 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:37 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:37 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:37 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:37 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:37 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:37 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:38 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:49:38 --> Class 'App\Models\CategoriaModel' not found
+in APPPATH\Controllers\Categorias.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:50:49 --> Invalid file: pagina_header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_header.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('pagina_header', [...], true)
+ 3 APPPATH\Views\categorias.php(3): CodeIgniter\View\View->include('pagina_header', [...])
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 7 APPPATH\Controllers\Categorias.php(14): view('categorias', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:50:49 --> Invalid file: pagina_header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_header.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('pagina_header', [...], true)
+ 3 APPPATH\Views\categorias.php(3): CodeIgniter\View\View->include('pagina_header', [...])
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 7 APPPATH\Controllers\Categorias.php(14): view('categorias', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:50:50 --> Invalid file: pagina_header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_header.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('pagina_header', [...], true)
+ 3 APPPATH\Views\categorias.php(3): CodeIgniter\View\View->include('pagina_header', [...])
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 7 APPPATH\Controllers\Categorias.php(14): view('categorias', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:50:50 --> Invalid file: pagina_header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_header.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('pagina_header', [...], true)
+ 3 APPPATH\Views\categorias.php(3): CodeIgniter\View\View->include('pagina_header', [...])
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 7 APPPATH\Controllers\Categorias.php(14): view('categorias', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:50:50 --> Invalid file: pagina_header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_header.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('pagina_header', [...], true)
+ 3 APPPATH\Views\categorias.php(3): CodeIgniter\View\View->include('pagina_header', [...])
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 7 APPPATH\Controllers\Categorias.php(14): view('categorias', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-28 15:50:51 --> Invalid file: pagina_header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_header.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('pagina_header', [...], true)
+ 3 APPPATH\Views\categorias.php(3): CodeIgniter\View\View->include('pagina_header', [...])
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\categorias.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('categorias', [], true)
+ 7 APPPATH\Controllers\Categorias.php(14): view('categorias', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Categorias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
